@@ -1,0 +1,21 @@
+{
+  "name": "web-app",
+  "description": "web-app for learning purposes",
+  "main": "app.js",
+  "authors": [
+    "Kristian Angelski"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/kristian-angelski/web-app",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "font-awesome": "^5.0.6"
+  }
+}
