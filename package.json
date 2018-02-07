@@ -1,0 +1,22 @@
+{
+  "name": "web-app",
+  "version": "1.0.0",
+  "description": "web-app for learning purposes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristian-angelski/web-app.git"
+  },
+  "author": "Kristian Angelski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristian-angelski/web-app/issues"
+  },
+  "homepage": "https://github.com/kristian-angelski/web-app#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
