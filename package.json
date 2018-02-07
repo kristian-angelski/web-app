@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/kristian-angelski/web-app#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "jscs": "^3.0.7"
   }
 }
